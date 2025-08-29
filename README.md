@@ -1,6 +1,6 @@
 # Marketing-Channel-Analysis
 
-#Latar Belakang
+# Latar Belakang
 Proyek ini menggunakan dataset Superstore untuk menganalisis performa penjualan, perilaku pelanggan, serta membuat segmentasi pelanggan dengan pendekatan RFM Analysis (Recency, Frequency, Monetary).
 
 # Analisis
